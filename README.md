@@ -23,9 +23,18 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+    -Acessibility is giving every person the ability to use your website no matter their need. Wether its screen size, screen readers to those with auditory, cognitive, neurological, or physical disabilities,and those with visual needs, everyone has the right to use your website to its fullest extent. Making sure that you have done your due-dilligence in addressing those concerns and focusing on what needs to be done, is a key compnent of making a site acessible.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+    -You can use responsive units, rems and percentages are good examples.
+    -Adding media queries and breakpoints for users on smaller devices that allow full site capabilites on smaller screens.
+    -Using Semantic HTML to make your site readily available for persons with screen readers to access the information in a clear, concise, and understandable way.
+    -Using correct color and symbol components 
+
 3. How would you explain the concept of a variable to someone new to programming?
+    -Variables are stored values of data. These "containers" of data, allow you to easily access, call and change values without needing to restate their value. They are very similar to variables in algebra. x + y = z. Thats a basic way to think of them. X has a value that can be called upon
 4. What is the purpose of using functions in code?
+    -A function is a block of code that preforms a certain task when called upon or executed. This allows you to use the function multiple times on different paramaters that fit the functions, and execute the same block of code on multiple values. It allows you to reuse code without having to restate the code you want, just having to execute the function with th edefined paramaters. A function can hold the instructions for baking cookies, and you can change the type of cookie recipie, but still execute baking said cookies without re coding, and staying DRY in your code.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
